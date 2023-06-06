@@ -97,3 +97,6 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
 * [`Saweria`](https://saweria.co/arullOfc)
+
+[Click here to deploy on heroku](https://inrl-web.onrender.com/deploy/heroku)
+<br>
